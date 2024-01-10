@@ -138,7 +138,7 @@ line-height:28.8px;margin-bottom:28px;}
 
 form{display:flex;justify-content: center;}
 
-form textarea{margin-right:24px;border-radius:5px;resize:none;}
+form textarea{margin-right:24px;border-radius:5px;resize:none;width:400px}
 form textarea:focus-visible{outline:2px solid #00dca5}
 
 .info-box{display:flex;flex-direction:column;}
